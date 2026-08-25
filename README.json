@@ -338,7 +338,7 @@
                 "last_commit": "2026-04-08T17:44:08Z",
                 "owner": "linuxmint",
                 "repo": "timeshift",
-                "stars": 4250
+                "stars": 4251
               }
             },
             {
@@ -561,7 +561,7 @@
             "last_commit": "2026-08-17T10:27:07Z",
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 148202
+            "stars": 148204
           }
         }
       ],
@@ -600,7 +600,7 @@
             "archived": false,
             "id": 286818960,
             "language": "Shell",
-            "last_commit": "2026-08-25T04:52:51Z",
+            "last_commit": "2026-08-25T07:03:26Z",
             "owner": "openshift",
             "repo": "sandboxed-containers-operator",
             "stars": 50
@@ -909,7 +909,7 @@
                 "last_commit": "2026-08-24T22:03:42Z",
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14319
+                "stars": 14320
               }
             },
             {
@@ -1162,7 +1162,7 @@
                 "last_commit": "2024-04-17T11:08:35Z",
                 "owner": "tink-crypto",
                 "repo": "tink",
-                "stars": 13539
+                "stars": 13540
               }
             }
           ],
@@ -1460,7 +1460,7 @@
                 "archived": false,
                 "id": 286818960,
                 "language": "Shell",
-                "last_commit": "2026-08-25T04:52:51Z",
+                "last_commit": "2026-08-25T07:03:26Z",
                 "owner": "openshift",
                 "repo": "sandboxed-containers-operator",
                 "stars": 50
@@ -1568,7 +1568,7 @@
                 "last_commit": "2025-01-06T08:37:10Z",
                 "owner": "Netflix",
                 "repo": "chaosmonkey",
-                "stars": 17087
+                "stars": 17086
               }
             },
             {
@@ -1805,7 +1805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:30:40.672Z",
+    "last_updated": "2026-08-25T07:11:26.943Z",
     "original_repository": "mikeroyal/Zorin-OS-Guide",
     "original_repository_id": 394063776,
     "original_repository_sha": "7639237694b756241ceb111fdd0b8dbc640b1a1e",

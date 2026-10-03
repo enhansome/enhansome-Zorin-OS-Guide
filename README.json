@@ -42,7 +42,7 @@
                 "open_issues": 229,
                 "owner": "linuxmint",
                 "repo": "timeshift",
-                "stars": 4293,
+                "stars": 4294,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:26.803Z"
@@ -63,7 +63,7 @@
                 "open_issues": 173,
                 "owner": "oguzhaninan",
                 "repo": "Stacer",
-                "stars": 9327,
+                "stars": 9328,
                 "topics": [
                   "desktop-application",
                   "linux",
@@ -166,10 +166,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-03T03:57:58Z",
-                "open_issues": 5210,
+                "open_issues": 5211,
                 "owner": "ValveSoftware",
                 "repo": "Proton",
-                "stars": 32966,
+                "stars": 32970,
                 "topics": [
                   "proton"
                 ]
@@ -284,7 +284,7 @@
                 "open_issues": 467,
                 "owner": "ValveSoftware",
                 "repo": "SteamVR-for-Linux",
-                "stars": 1112,
+                "stars": 1114,
                 "topics": [
                   "linux",
                   "steamvr",
@@ -309,7 +309,7 @@
                 "open_issues": 1041,
                 "owner": "ValveSoftware",
                 "repo": "openvr",
-                "stars": 6670,
+                "stars": 6671,
                 "topics": [
                   "hardware",
                   "openvr-sdk",
@@ -400,11 +400,11 @@
             "id": 111583593,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T17:53:16Z",
-            "open_issues": 2913,
+            "last_commit": "2026-10-03T09:40:48Z",
+            "open_issues": 2912,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 150896,
+            "stars": 150911,
             "topics": [
               "android",
               "c",
@@ -441,7 +441,7 @@
             "open_issues": 142,
             "owner": "robbert-vdh",
             "repo": "yabridge",
-            "stars": 4132,
+            "stars": 4134,
             "topics": [
               "clap",
               "linux",
@@ -542,10 +542,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T18:28:08Z",
-            "open_issues": 75,
+            "open_issues": 74,
             "owner": "k3s-io",
             "repo": "k3s",
-            "stars": 34111,
+            "stars": 34113,
             "topics": [
               "k8s",
               "kubernetes"
@@ -771,7 +771,7 @@
                 "id": 152616802,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T04:05:38Z",
+                "last_commit": "2026-10-03T06:48:33Z",
                 "open_issues": 808,
                 "owner": "NVIDIA",
                 "repo": "cuml",
@@ -869,7 +869,7 @@
                 "open_issues": 781,
                 "owner": "microsoft",
                 "repo": "AirSim",
-                "stars": 18531,
+                "stars": 18533,
                 "topics": [
                   "ai",
                   "airsim",
@@ -905,7 +905,7 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-03T02:35:30Z",
-                "open_issues": 429,
+                "open_issues": 430,
                 "owner": "nasa",
                 "repo": "fprime",
                 "stars": 11807,
@@ -1007,7 +1007,7 @@
                 "open_issues": 1192,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14453,
+                "stars": 14452,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -1218,10 +1218,10 @@
                 "language": "C",
                 "license": "MIT",
                 "last_commit": "2026-09-29T17:15:31Z",
-                "open_issues": 35,
+                "open_issues": 36,
                 "owner": "rfjakob",
                 "repo": "earlyoom",
-                "stars": 4322,
+                "stars": 4323,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:26.803Z"
@@ -1293,7 +1293,7 @@
                 "open_issues": 635,
                 "owner": "google",
                 "repo": "syzkaller",
-                "stars": 6334,
+                "stars": 6335,
                 "topics": [
                   "fuzz-testing",
                   "fuzzer",
@@ -1350,7 +1350,7 @@
                 "open_issues": 115,
                 "owner": "xmendez",
                 "repo": "wfuzz",
-                "stars": 6589,
+                "stars": 6590,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:26.803Z"
@@ -1456,7 +1456,7 @@
                 "open_issues": 31,
                 "owner": "OpenMined",
                 "repo": "PySyft",
-                "stars": 10041,
+                "stars": 10042,
                 "topics": [
                   "cryptography",
                   "deep-learning",
@@ -1581,7 +1581,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-29T17:21:23Z",
-                "open_issues": 1358,
+                "open_issues": 1359,
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
                 "stars": 24104,
@@ -1755,10 +1755,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-02T19:24:12Z",
-                "open_issues": 1017,
+                "open_issues": 1019,
                 "owner": "podman-container-tools",
                 "repo": "podman",
-                "stars": 32988,
+                "stars": 32989,
                 "topics": [
                   "containers",
                   "docker",
@@ -1823,11 +1823,11 @@
                 "id": 184341774,
                 "language": "Rust",
                 "license": null,
-                "last_commit": "2026-10-02T23:59:20Z",
-                "open_issues": 243,
+                "last_commit": "2026-10-03T09:44:30Z",
+                "open_issues": 242,
                 "owner": "cloud-hypervisor",
                 "repo": "cloud-hypervisor",
-                "stars": 6278,
+                "stars": 6279,
                 "topics": [
                   "cloud-workloads",
                   "kvm",
@@ -1850,10 +1850,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-02T18:28:08Z",
-                "open_issues": 75,
+                "open_issues": 74,
                 "owner": "k3s-io",
                 "repo": "k3s",
-                "stars": 34111,
+                "stars": 34113,
                 "topics": [
                   "k8s",
                   "kubernetes"
@@ -2061,7 +2061,7 @@
                 "open_issues": 34,
                 "owner": "Netflix",
                 "repo": "chaosmonkey",
-                "stars": 17163,
+                "stars": 17165,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:26.803Z"
@@ -2116,11 +2116,11 @@
                 "id": 31792824,
                 "language": "Dart",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-03T04:29:45Z",
-                "open_issues": 13266,
+                "last_commit": "2026-10-03T06:28:42Z",
+                "open_issues": 13256,
                 "owner": "flutter",
                 "repo": "flutter",
-                "stars": 179266,
+                "stars": 179282,
                 "topics": [
                   "android",
                   "app-framework",
@@ -2408,7 +2408,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:36:21.564Z",
+    "last_updated": "2026-10-03T11:45:24.299Z",
     "original_repository_info": {
       "archived": false,
       "description": "Zorin OS Guide ",
